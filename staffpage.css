@@ -1,0 +1,100 @@
+p
+{
+    padding-top: 10px;
+}
+.dev
+{
+    display: flex;
+    flex-direction: column;
+}
+.dev > div
+{
+    padding-top: 18px;
+    text-align: center;
+    background-color: blue;
+    /* border: 10px blue outset; */
+    height: 39px;
+}
+.dev a
+{
+    color: white;
+    text-decoration: none;
+    padding-left: 3px;
+    text-align: center;
+}
+.dev a:hover
+{
+    color:rgb(104, 95, 95);
+}
+.dev1
+{
+    display: flex;
+    flex-direction: row;
+    /* padding-left: 10px; */
+    width: 91%;
+    margin: auto;
+    flex-wrap: wrap;
+    padding-top: 40px;
+}
+.dev1 > div
+{
+    color: rgb(244, 244, 250);
+    background-color: rgba(184, 184, 202, 0.856);
+    /* padding-left: 10px; */
+    margin-left: 10px;
+    height: 500px;
+    width: 390px;
+    text-align: center;
+    /* white-space:break-spaces ; */
+}
+.diff1
+{
+    margin-top:50px ;
+}
+.t_style
+{
+    color: black;
+    font-size: 22px;
+}
+.t_style th
+{
+    text-align: end;
+}
+.t_style td
+{
+    text-align:right;
+}
+.img_style
+{
+    height: 180px;
+    width: 180px; 
+    border-radius:50%; 
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+.butt_style
+{
+    color:white;
+    background-color: blue;
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+}
+.sp3
+{
+    color: white;
+    background-color:blue;
+    height: 70px; 
+    text-align: center;
+}
+.sp3 a
+{
+    color: white;
+    text-decoration: none;
+}
+.sp3 a:hover
+{
+    color: palevioletred;
+}

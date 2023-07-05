@@ -1,0 +1,78 @@
+.vp
+{
+    display: flex;
+    flex-direction: column;
+}
+.vp > div
+{
+    padding-top: 18px;
+    text-align: center;
+    background-color: blue;
+    /* border: 10px blue outset; */
+    height: 39px;
+}
+.vp a
+{
+    color: white;
+    text-decoration: none;
+    padding-left: 3px;
+    text-align: center;
+}
+.vp a:hover
+{
+    color:rgb(104, 95, 95);
+}
+.vp1
+{
+    color: black;
+    background-color:rgba(184, 184, 202, 0.856);
+    height: 255px;
+    width: 95%;
+    margin:auto;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.img_style
+{
+    width: 180px;
+    height: 190px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.vp_table
+{
+    margin-top: 40px;
+    margin-left: 65px;
+}
+.vp_table1
+{
+    margin-top: 35px;
+    margin-left: 65px;
+    text-align:start;
+}
+.vp2
+{
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+    margin-top: 23px;
+}
+vp2 > div
+{
+    text-decoration: underline;
+}
+.vp2 a
+{
+    color:grey;
+    padding-left: 25px;
+    /* text-decoration:underline; */
+    font-size: 25px;
+}
+.vp2 a:hover
+{
+    color: cornflowerblue;
+}

@@ -1,0 +1,82 @@
+p
+{
+    padding-top: 10px;
+}
+.mine
+{
+    display: flex;
+    flex-direction: column;
+}
+.mine > div
+{
+    padding-top: 18px;
+    text-align: center;
+    background-color: blue;
+    /* border: 10px blue outset; */
+    height: 39px;
+}
+.mine a
+{
+    color: white;
+    text-decoration: none;
+    padding-left: 3px;
+    text-align: center;
+}
+.mine a:hover
+{
+    color:rgb(104, 95, 95);
+}
+.mine1
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* margin-left: 100px; */
+    width: 77%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    /* background-color: lightgray; */
+    /* padding-left: 40px; */
+}
+.mine1 > div
+{
+    padding-top: 40px;
+    text-align:center;  
+    height: 250px;
+    width: 285px;
+    background-color:blue;
+    border-radius: 200%;
+    margin-left: 40px;
+    /* display: inline-block; */
+}
+.mine1 a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+.mine a:hover
+{
+    text-decoration:transparent;
+}
+.diff
+{
+    margin-top: 50px;
+}
+.mine3
+{
+    color: white;
+    background-color:blue;
+    height: 70px; 
+    text-align: center;
+}
+.mine3 a
+{
+    color: white;
+    text-decoration: none;
+}
+.mine3 a:hover
+{
+    color: palevioletred;
+}
